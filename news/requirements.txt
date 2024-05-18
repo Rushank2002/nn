@@ -1,3 +1,4 @@
 pandas
 streamlit
 alpha_vantage
+numpy
